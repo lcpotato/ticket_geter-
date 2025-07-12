@@ -1,1 +1,1 @@
-this program is base on the android stimul;ator (I could never catuch the ticket of ball court in our school }, which severice is running on the android .due to my laziness, some items is clicked by coordinate,causing the problem on convert
+this program is base on the android stimul;ator (I could never catuch the ticket of court in my school }, whose severice is running on the android .due to my laziness, some items is clicked by coordinate,causing the problem on convert
